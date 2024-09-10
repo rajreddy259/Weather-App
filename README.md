@@ -46,5 +46,5 @@ To get a local copy of the project up and running, follow these simple steps.
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/WeatherApp.git
+   git clone https://github.com/rjrddy/Weather-App.git
    cd WeatherApp
